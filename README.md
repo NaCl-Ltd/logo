@@ -1,5 +1,7 @@
 # NaCl Logo program
 
+This is a Ruby program in the shape of the NaCl logo. Please copy and run it!
+
 ```ruby
 
                                                                         eval$s=
